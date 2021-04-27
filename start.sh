@@ -10,7 +10,7 @@
 
 # run sample
 #  ./start.sh ipaddr pkey url column
-#  ./start.sh 3.91.68.9 einsteinish.pem https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD 4
+#  ./start.sh 3.91.68.9 my.pem https://data.cityofnewyork.us/api/views/833y-fsy8/rows.csv?accessType=DOWNLOAD 4
 
 ipaddr=$1
 pkey=$2
